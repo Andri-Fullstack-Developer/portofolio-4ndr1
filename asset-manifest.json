@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86e1c6d7.css",
+    "main.js": "/static/js/main.8d71c784.js",
+    "static/js/787.dfae3f58.chunk.js": "/static/js/787.dfae3f58.chunk.js",
+    "static/media/pjt 8.png": "/static/media/pjt 8.f25cfa6dbe5b4995c2b8.png",
+    "static/media/pjt 3.png": "/static/media/pjt 3.c5d76320b57384521f51.png",
+    "static/media/pjt 7.png": "/static/media/pjt 7.00d7cb38c176a659bc13.png",
+    "static/media/4ndr125.png": "/static/media/4ndr125.99de0e8b9b84c654148b.png",
+    "static/media/pjt 9.png": "/static/media/pjt 9.093298408f34381bdaa8.png",
+    "static/media/4ndr1252.jpg": "/static/media/4ndr1252.c433a91b61b16d8b0329.jpg",
+    "static/media/pjt 4.png": "/static/media/pjt 4.559ac4bd3be6cc4abaff.png",
+    "static/media/pjt 6.png": "/static/media/pjt 6.d4d55de43a5731d305aa.png",
+    "static/media/MY CV Andri Doc..pdf": "/static/media/MY CV Andri Doc..712ba67e4c4177c07c84.pdf",
+    "static/media/Pjt 1.png": "/static/media/Pjt 1.62913dfbff65c86ef1d1.png",
+    "static/media/pjt 2.png": "/static/media/pjt 2.46fcba751db9455e7642.png",
+    "static/media/Desktop 25.png": "/static/media/Desktop 25.415dc46898d33a9f42ae.png",
+    "index.html": "/index.html",
+    "main.86e1c6d7.css.map": "/static/css/main.86e1c6d7.css.map",
+    "main.8d71c784.js.map": "/static/js/main.8d71c784.js.map",
+    "787.dfae3f58.chunk.js.map": "/static/js/787.dfae3f58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e1c6d7.css",
+    "static/js/main.8d71c784.js"
+  ]
+}
